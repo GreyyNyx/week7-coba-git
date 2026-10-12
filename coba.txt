@@ -1,4 +1,2 @@
 Halo nama saya Angga
 halo saya ferdy
-
-ini perubahan dari branch feature/angga
